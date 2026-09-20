@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    3623cd9f-5d64-4d73-9424-3ab64539307c: 13bc8cea-e3a2-4107-8b41-6c0750a9836b/20af6095da0e9bf6b65fbb6de34c58f5/Data/next (1).png
+  Assets:
+    - !<FileTexture/3623cd9f-5d64-4d73-9424-3ab64539307c>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 360
+        Height: 360
+  SourceHash: 20af6095da0e9bf6b65fbb6de34c58f5
+  FileHash: 25ebe8be30cb8cb26361e6711b19410d
+  NativePackageItems:
+    []

@@ -1,0 +1,42 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 36
+    values:
+      - Base.png
+      - Box.mesh
+      - CalibrationUI.js
+      - Chin-Tuck (1).mp4
+      - Color Correction 2.mat
+      - Color Correction.mat
+      - Empty.png
+      - HologramController.js
+      - Image.mat
+      - Image.png
+      - ImageMaterial.mat
+      - MaterialParams.png
+      - Normal.png
+      - PBR 2.mat
+      - PBR 3.mat
+      - PBR.mat
+      - Plane.mesh
+      - PostureManager.js
+      - ScreenTexture.screenTexture
+      - Sphere.mesh
+      - Text3D.mat
+      - chinTuck.mat
+      - chinTuckMaterial.mat
+      - color_correction.ss_graph
+      - flat.ss_graph
+      - image_unlit 2.ss_graph
+      - image_unlit.ss_graph
+      - next (1).png
+      - pbr.ss_graph
+      - ready.png
+      - readyButtonMaterial.mat
+      - stretch left.mp4
+      - stretch-otherside.mp4
+      - stretchLeftMaterial.mat
+      - stretchOthersideMaterial.mat
+      - text_3d.ss_graph
+  options: 4

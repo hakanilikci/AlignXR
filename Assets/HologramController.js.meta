@@ -1,0 +1,52 @@
+- !<AssetImportMetadata/7fee857c-a453-4fd6-8a36-b9e7fca37e5b>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 35472254-1d16-4916-b4f4-cdfd9d470081
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 35472254-1d16-4916-b4f4-cdfd9d470081
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 658feabc-e464-400e-aa26-dcbc18dcfe71
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/658feabc-e464-400e-aa26-dcbc18dcfe71>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 82a70093-7160-4c00-82e0-2c6e0f4e22f5
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    chinTuckHologram: false
+    chinTuckVideo: false
+    leftStretchHologram: false
+    leftStretchVideo: false
+    stretchOthersideHologram: false
+    stretchOthersideVideo: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - chinTuckHologram: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      chinTuckVideo: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+      leftStretchHologram: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      leftStretchVideo: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+      stretchOthersideHologram: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      stretchOthersideVideo: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

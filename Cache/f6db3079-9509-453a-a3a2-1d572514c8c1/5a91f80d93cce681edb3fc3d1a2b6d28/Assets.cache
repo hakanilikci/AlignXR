@@ -1,0 +1,12 @@
+- !<AssetCache>
+  AssetFiles:
+    406e58e9-4fbd-4394-b78b-aed3dd459cac: f6db3079-9509-453a-a3a2-1d572514c8c1/5a91f80d93cce681edb3fc3d1a2b6d28/Data/stretch left.mp4
+  Assets:
+    - !<VideoTexture/406e58e9-4fbd-4394-b78b-aed3dd459cac>
+      PackagePath: ""
+      AutoPlay: false
+      Volume: 1.000000
+  SourceHash: 5a91f80d93cce681edb3fc3d1a2b6d28
+  FileHash: d2a4aeea35f4e32d099321963b99117e
+  NativePackageItems:
+    []

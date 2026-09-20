@@ -1,0 +1,12 @@
+- !<AssetCache>
+  AssetFiles:
+    cc93fd98-6ee9-488c-9f2d-578990cf045c: 90faa19b-56c3-4e89-ae53-a7a8a0a00bfe/d1880bd1577cb975aa3bff39fbc18e5a/Data/Chin-Tuck (1).mp4
+  Assets:
+    - !<VideoTexture/cc93fd98-6ee9-488c-9f2d-578990cf045c>
+      PackagePath: ""
+      AutoPlay: false
+      Volume: 1.000000
+  SourceHash: d1880bd1577cb975aa3bff39fbc18e5a
+  FileHash: 7a6167ddd38c793c554da757bd4be9ab
+  NativePackageItems:
+    []

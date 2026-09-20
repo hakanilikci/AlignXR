@@ -1,0 +1,12 @@
+- !<AssetCache>
+  AssetFiles:
+    06761ecc-5773-4114-9725-bbc144becb87: d82a5d24-adba-41ea-992d-9a7a74c66ee4/fe46a7bdd8da02045dddb62bc8d60aa0/Data/otherside.mp4
+  Assets:
+    - !<VideoTexture/06761ecc-5773-4114-9725-bbc144becb87>
+      PackagePath: ""
+      AutoPlay: false
+      Volume: 1.000000
+  SourceHash: fe46a7bdd8da02045dddb62bc8d60aa0
+  FileHash: 1d7b81fd8eae626af33e30386c799c53
+  NativePackageItems:
+    []
